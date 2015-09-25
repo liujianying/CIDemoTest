@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 22
+    compileSdkVersion 20
     buildToolsVersion "22.0.0"
 
     defaultConfig {
         applicationId "gva.ydh.com.myapplication"
         minSdkVersion 14
-        targetSdkVersion 22
+        targetSdkVersion 20
         versionCode 1
         versionName "1.0"
     }
